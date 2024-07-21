@@ -164,7 +164,7 @@
 			],
 			"stats": [{
 					"stat": "powerMultiplier",
-					"effectiveMultiplier": 1.2
+					"effectiveMultiplier": 1.08
 				},
 				{
 					"stat": "maxEnergy",
