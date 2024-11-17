@@ -1,0 +1,36 @@
+[
+    { "op": "replace",
+    "path" : "/charCreationTooltip/description" ,
+    "value" : ""
+    },
+
+    { "op": "replace",
+    "path" : "/charCreationTooltip/description" ,
+    "value" : "The octopus cousins to Inklings, with many similar traits. Introverted but wily, they specialize in both long-range energy firearms and close combat.
+
+  ^orange;Diet^reset;: Omnivore, but can eat raw meat.
+
+^orange;Perks^reset;:
+  ^green;220^reset;s Breath
+  ^green;Resist^reset;: +^green;30^reset;% Poison, +^green;30^reset;% Radioactive
+  ^green;20^reset;% Jump Height increase
+  Fall Damage x^green;0.65^reset;.
+  ^cyan;Immune^reset;: Slime, Wet
+  ^cyan;Swim Boost 1^reset;
+
+^orange;Environment^reset;:
+  On Ocean biomes: Health and Energy x^green;1.15^reset;, ^green;5^reset;% Speed, Inf Oxygen, Fall Damage Immunity.
+  On Warm biomes: Health and Energy x^green;1.05^reset;, +^green;30^reset;% regen rate. +^green;5^reset;% Movement Speed
+  On Cold biomes: Health and Energy x^red;0.9^reset;, -^red;20^reset;% regen rate. -^green;20^reset;% Movement Speed
+  Oil, Slime, Dark Water, or Healing Water: Health and Energy x^green;1.1^reset;, Inf Breath
+  Poison, Swamp Water, Contaminated Water or Strange Ooze: Health and Energy x^red;0.7^reset;, -100 Breath
+
+^orange;Weapons^reset;:
+  Shotgun, Sniper Rifle: Damage x^green;1.2^reset;, Energy x^green;1.15^reset;
+  Broadsword, Fist: +^green;2^reset;% Crit Chance, +^green;5^reset;% Crit Damage
+  Energy Weapon: Damage x^green;1.05^reset;, Energy x^green;1.05^reset; increase
+
+^red;Weaknesses^reset;:
+  ^red;Resist^reset;: -^red;30^reset;% Ice & Fire
+    }
+]
